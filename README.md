@@ -13,6 +13,7 @@ provided. For the more details about the implemented methods please check the re
 
 ## Data
 The input data expects to be put in an input folder at the root. 
+
 Link to the challenge : https://www.kaggle.com/c/fr-domain-classification
 
 ## Contributors
